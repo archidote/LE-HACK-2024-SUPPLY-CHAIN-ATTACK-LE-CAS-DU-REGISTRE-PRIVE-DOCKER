@@ -11,6 +11,10 @@ Le *repository* github contient les éléments suivants :
 ## Article du magazine MISC n°134 Juillet/Août 2024
 - https://boutique.ed-diamond.com/en-kiosque/1690-misc-134.html
 
+## Replay de la conférence 
+
+- https://youtu.be/f8t-z0M9C-k?si=zKvSUj5g-ebCrG_0
+
 ## Annexes
 ### Image Docker utilisés pour la démonstration : 
 
